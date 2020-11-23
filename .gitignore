@@ -1,3 +1,4 @@
 db.sqlite3
 django_courses/django_courses/__pycache__/
 django_courses/lesson_1/__pycache__/
+django_courses/lesson_1/migrations/__pycache__/
