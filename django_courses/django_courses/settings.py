@@ -13,6 +13,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'lesson_1',
+    'task_page',
 ]
 
 MIDDLEWARE = [
