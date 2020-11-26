@@ -2,5 +2,5 @@ db.sqlite3
 django_courses/django_courses/__pycache__/
 django_courses/lesson_1/__pycache__/
 django_courses/lesson_1/migrations/__pycache__/
-django_courses/kuzhagaliyev_app/__pycache__
+django_courses/kuzhagaliyev_app/__pycache__/
 django_courses/kuzhagaliyev_app/migrations/__pycache__
